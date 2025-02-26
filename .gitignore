@@ -1,0 +1,11 @@
+# Ignorar todo
+*
+
+# Permitir directorios para que Git registre su estructura
+!*/
+
+# Permitir archivos .c
+!*.c
+
+# Excluir el .gitignore para evitar que se ignore a sí mismo
+!.gitignore
